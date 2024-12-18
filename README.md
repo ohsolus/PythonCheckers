@@ -3,8 +3,9 @@
  ### Este es un proyecto para la cátedra de Inteligencia Artificial. Para poder correr este proyecto deberas:
 
 1. Clonar este repositorio desde windows
->  [Si no sabes como clonar un proyecto de Github, puedes averiguarlo [aqui](https://www.youtube.com/watch?v=S2LajHX302w) utiliza el editor de tu preferencia siempre que tenga soporte para el interprete de python; algunas sugerencias que te puedo ofrecer: Visual Studio Code, PyCharm, Spyder
+>  Si no sabes como clonar un proyecto de Github, puedes averiguarlo [aqui](https://www.youtube.com/watch?v=S2LajHX302w) utiliza el editor de tu preferencia siempre que tenga soporte para el interprete de python; algunas sugerencias que te puedo ofrecer: Visual Studio Code, PyCharm, Spyder
 > Importante tener instalada una versión de python compatible (python 3.12) y el interprete de python configurado.
+> Otro detalle a tomar en cuenta es que dees instalar pygame para poder correr la versión del juego. Puedes instalar en local abriendo la terminal desde un editor en tu carpeta de proyecto y tipeando "pip install pygame", puede que en algunas versiones el comando de instalación cambie, puedes buscar cuál sería la mejor opción de aucerdo a tu caso particular.
 2. Ubicar la carpeta del proyecto y abrir el archivo main.py
 > ![image](https://github.com/user-attachments/assets/c67811ee-e530-481c-b8a8-8bd7c13bce7c) 
 3. Debes correr el archivo main.py
