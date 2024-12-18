@@ -25,7 +25,7 @@
 
  ## Autores
 
-> Yesenia Larenas, C.I: 30.193.262 - Ing. Informática, Universidad Nacional Experimental de Guayana (UNEG)
+> Yesenia Larenas, C.I: 30.293.262 - Ing. Informática, Universidad Nacional Experimental de Guayana (UNEG)
 > yesianlarenas@gmail.com
 
 ## Puedes conseguir más información de este proyecto aqui
